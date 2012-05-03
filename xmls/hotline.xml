@@ -1,0 +1,7126 @@
+<?xml version="1.0" encoding="utf-8" ?><clips>
+
+<clip>
+	<file>100_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>101_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>102_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>103_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>104_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>105_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>106_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>107_1_final.MOv</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>108_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>109_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>10_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>110_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>111_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>112_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>113_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>114_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>115_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>116_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>117_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>118_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>119_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>11_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>120_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>121_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>122_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>123_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>124_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>125_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>126_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>127_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>128_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>129_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>12_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>130_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>131_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>132_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>133_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>134_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>135_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>136_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>138_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>139_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>13_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>140_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>141_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>142_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>143_4_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>144_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>145_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>146_4_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>147_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>148_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>149_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>14_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>150_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>151_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>152_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>153_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>154_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>155_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>156_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>157_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>158_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>159_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>15_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>160_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>161_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>162_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>163_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>164_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>165_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>166_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>167_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>168_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>169_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>16_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>170_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>171_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>172_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>173_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>174_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>175_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>176_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>177_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>178_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>179_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>17_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>180_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>181_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>182_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>183_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>184_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>185_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>186_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>187_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>188_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>189_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>18_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>190_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>191_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>192_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>193_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>194_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>195_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>196_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>197_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>198_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>199_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>19_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>1_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>200_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>201_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>202_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>203_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>204_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>205_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>206_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>207_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>208_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>209_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>20_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>210_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>211_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Labile</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>212_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>213_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>214_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>218_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>219_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>21_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>220_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>221_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>222_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>223_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>224_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>225_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>226_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>227_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>228_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>229_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>22_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>230_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>231_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>232_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>233_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>234_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>235_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>236_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>237_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>238_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>239_4_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>23_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>240_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>241_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>242_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>243_4_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>244_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>245_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>246_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>247_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>248_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>249_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>24_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>250_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>251_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>252_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>253_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>254_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>255_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+		<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/WWWROOT/164037/htdocs/clip_hotline.xml</b> on line <b>28</b><br />
+	</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>256_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>257_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>258_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>259_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>25_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>260_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>261_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>262_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>263_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>264_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>265_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>266_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>267_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>268_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>269_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>26_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>270_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>271_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>272_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>273_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>274_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>275_3_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>277_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>278_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>279_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>27_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>280_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>281_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>282_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>283_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>284_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>285_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>286_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>287_2_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>288_2_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>289_1_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>28_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>290_1_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>291_1_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>292_1_final</file>
+	<genre>hotline</genre>
+	<myRole>Tekki</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>29_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>2_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>30_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>31_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>32_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>33_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Unverstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>34_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>35_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>36_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>39_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>3_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>40_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>40_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>keine</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>41_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>42_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>43_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>44_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>45_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>46_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>47_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>48_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>49_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>4_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>50_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Zustimmung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Zustimmung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>51_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>52_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>53_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>54_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>55_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>56_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>57_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>58_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>59_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>5_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>60_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>61_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Ablehnung</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>62_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>63_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>64_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>65_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>66_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>67_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>68_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>69_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>6_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Unverstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>70_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>71_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Ja</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>72_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>73_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>74_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>75_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>76_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Nonsens</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>77_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>78_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Unverstaendnis</tag>
+					<tag>Zustimmung</tag>
+					<tag>Ablehnung</tag>
+					<tag>Nonsens</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>79_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>7_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>80_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>81_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>82_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>83_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>84_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>85_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>86_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>87_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Konklusion</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>88_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>89_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>8_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>Verstaendnis</tag>
+					<tag>Ablehnung</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>90_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>91_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>92_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>93_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>94_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>95_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>96_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Ende</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>wirr</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>98_2_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>serious</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>positiv_emo</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>99_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Oma</myRole>
+	<myCategory>Eroeffnung</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>keine</tag>
+			</myDialog>
+	<myTags>
+					<tag>positiv_emo</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>9_1_final.MOV</file>
+	<genre>hotline</genre>
+	<myRole>Mitarbeiter</myRole>
+	<myCategory>Dialog</myCategory>
+	<myEskalation>Nein</myEskalation>
+	<myDialog>
+					<tag>Verstaendnis</tag>
+			</myDialog>
+	<myTags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+			</myTags>
+	
+	<dialog>
+					<tag>keine</tag>
+					<tag>Verstaendnis</tag>
+			</dialog>
+	<tags>
+					<tag>negativ_emo</tag>
+					<tag>positiv_emo</tag>
+					<tag>wirr</tag>
+					<tag>serious</tag>
+			</tags>
+</clip>
+
+</clips>

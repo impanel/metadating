@@ -1,0 +1,5222 @@
+<?xml version="1.0" encoding="utf-8" ?><clips>
+
+<clip>
+	<file>SANY0001.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Neutralisieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0002.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0003.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0005.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0006.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0007.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0008.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0012.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0013.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0014.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0015.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0016.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0019.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0020.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0021.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0022.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0023.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0024.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0025.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0026.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0027.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0028.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0029.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0030.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0031.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0032.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0033.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0034.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0035.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0036.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0037.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0038.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0039.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0040.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0041.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0045.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0046.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0047.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0049.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0050.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0051.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0052.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0053.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Neutralisieren</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0054.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0055.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0056.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0057.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0058.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0059.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0060.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0061.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0062.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0063.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0064.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0065.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0066.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0067.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0068.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0070.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0071.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0072.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0074.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0075.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0076.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0077.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0078.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0079.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0080.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0081.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0082.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0083.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0084.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0085.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0086.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0087.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0088.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0089.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0090.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0091.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0092.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0093.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sport</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0094.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0095.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sport</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0096.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0097.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0098.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0099.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0100.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0101.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0102.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0103.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Imponieren</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0104.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0105.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0106.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0107.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0108.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0109.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0110.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0111.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0112.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0113.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0114.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Wohnsituation</tag>
+					<tag>Politik</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Wohnsituation</tag>
+					<tag>Politik</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0115.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Politik</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0116.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0117.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Heirat</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Imponieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Heirat</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0118.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0119.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0120.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0121.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0122.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0123.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0124.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0125.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0126.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0128.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0129.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Tochter</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0130.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0132.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0134.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0135.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0136.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>nonver_Ablehnung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0139.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Hanna</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+					<tag>Nonsens</tag>
+					<tag>nonver_Zustimmung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0144.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>nonver_Zustimmung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0145.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0146.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0147.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Hanna</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>desinteressiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0149.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>nonver_Zustimmung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0150.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Kennenlerng_</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0151.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+					<tag>nonver_Ablehnung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0152.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+					<tag>Gegenfrage</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sport</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0153.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Hanna</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0154.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Hanna</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Frage</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+
+<clip>
+	<file>SANY0160.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Verabschiedung</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Verabschiedung</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0161.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Kai</myRole>
+	<myCategory>Verabschiedung</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Verabschiedung</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0162.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0164.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0165.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0166.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0167.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0168.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Sport</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0170.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Tochter</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>nonver_Zustimmung</tag>
+					<tag>nonver_Ablehnung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0171.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0172.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>nonver_Zustimmung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0173.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0174.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>interessiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0175.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Begruessung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0176.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0178.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0179.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0180.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0181.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0182.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0185.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0186.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0187.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0188.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Neutralisieren</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0189.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0190.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0192.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0193.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0195.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0197.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0198.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0199.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>neutral</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0200.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0201.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>keine</tag>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0202.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+					<tag>Sport</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>keine</tag>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0204.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0205.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0206.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Politik</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Politik</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0207.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>keine</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0208.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0209.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0210.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0211.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0212.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Politik</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0214.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0215.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Politik</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0216.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0218.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Imponieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>desinteressiert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0219.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Frage</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0220.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Einschmeicheln</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Bildung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0222.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Bildung</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0223.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>interessiert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Begruessung</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0224.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>neutral</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0225.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0227.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Imponieren</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0228.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0229.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Antwort</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>selbstsicher</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0230.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Kennenlerng_</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0231.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Provozieren</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+			</myTags>
+	<role>Heinrich</role>
+	<category>Begruessung</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0232.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0233.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Provozieren</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Wohnsituation</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0235.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0238.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>veraergert</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0240.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Frage</myCategory>
+	<myFunction>Ausflucht</myFunction>
+	<myAttribut>verunsichert</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0241.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Neutralisieren</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Ausflucht</funktion>
+	<attribut>verunsichert</attribut>
+	<bewertung>neutral</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Bindung</tag>
+					<tag>Heirat</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0242.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Nonsens</myCategory>
+	<myFunction>Einschmeicheln</myFunction>
+	<myAttribut>offensiv</myAttribut>
+	<myBewertung>neutral</myBewertung>
+	<myTags>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+					<tag>Nonsens</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Antwort</category>
+	<funktion>Auskunft</funktion>
+	<attribut>selbstsicher</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Ziele</tag>
+					<tag>Tochter</tag>
+					<tag>Beziehung</tag>
+					<tag>Sex</tag>
+					<tag>Sport</tag>
+					<tag>Politik</tag>
+					<tag>Bildung</tag>
+					<tag>Geld</tag>
+					<tag>Interessen</tag>
+					<tag>Nonsens</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0244.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Verabschiedung</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>freundlich</myAttribut>
+	<myBewertung>positiv</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Verabschiedung</category>
+	<funktion>Auskunft</funktion>
+	<attribut>freundlich</attribut>
+	<bewertung>positiv</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>SANY0248.MP4</file>
+	<genre>schwiegersohn</genre>
+	<myRole>Heinrich</myRole>
+	<myCategory>Verabschiedung</myCategory>
+	<myFunction>Auskunft</myFunction>
+	<myAttribut>veraergert</myAttribut>
+	<myBewertung>negativ</myBewertung>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<role>Kai</role>
+	<category>Verabschiedung</category>
+	<funktion>Provozieren</funktion>
+	<attribut>offensiv</attribut>
+	<bewertung>negativ</bewertung>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+</clips>

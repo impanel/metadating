@@ -1,0 +1,1 @@
+﻿/* AS3	Copyright 2009 __MyCompanyName__.*/package {		public class VideoTests {				public function VideoTests(){}		}	}}

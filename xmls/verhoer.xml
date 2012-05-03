@@ -1,0 +1,7837 @@
+<?xml version="1.0" encoding="utf-8" ?><clips>
+
+<clip>
+	<file>intro.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+					<tag>Komplizen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Zufall</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_01.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Name</tag>
+					<tag>Prostituierte</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Name</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_02.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_03.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_04.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Beruf</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_05.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_06.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_07.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_08.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zufall</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Zufall</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_09.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Weinen</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Weinen</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Weinen</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Weinen</tag>
+					<tag>Emotion</tag>
+					<tag>Trauer</tag>
+					<tag>Verzweiflung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>ja</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Deal</tag>
+					<tag>Grund</tag>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_11.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wieso</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Emotion</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Lachen</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wieso</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Gegenfrage</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Ursache</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Provokation</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Ursache</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Lachen</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Angst</tag>
+					<tag>Lachen</tag>
+					<tag>Weinen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Scham</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_15.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Provokation</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Lachen</tag>
+					<tag>Weinen</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Trauer</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Scham</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Geld</tag>
+					<tag>Bett</tag>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Zusammenhang</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Bett</tag>
+					<tag>Sex</tag>
+					<tag>Emotion</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Ursache</tag>
+					<tag>Emotion</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Abwehr</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Freunde</tag>
+					<tag>Wieso</tag>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Lachen</tag>
+					<tag>Weinen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Belustigung</tag>
+					<tag>Trauer</tag>
+					<tag>Verzweiflung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Zuhaelter</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Prostituierte</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Identitaet</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Prostituierte</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Ursache</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Grund</tag>
+					<tag>Angst</tag>
+					<tag>Lachen</tag>
+					<tag>Weinen</tag>
+					<tag>Rechtfertigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_e_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Provokation</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_02.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Tatort</tag>
+					<tag>Motiv</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verzweiflung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_03.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Gegenfrage</funktion>
+	<attribut>charmant</attribut>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Provokation</tag>
+					<tag>Belustigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_04.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Prostituierte</tag>
+					<tag>Provokation</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_05.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Prostituierte</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Blut</tag>
+					<tag>Geld</tag>
+					<tag>Sex</tag>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+					<tag>Scham</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_06.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>charmant</attribut>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_07.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Deal</tag>
+					<tag>Ursache</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Tatort</tag>
+					<tag>Beziehung</tag>
+					<tag>Angst</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Rechtfertigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_08.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Eifersucht</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Motiv</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Angst</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_09.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alltagsthema</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alltagsthema</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_11.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gestaendnis_Einlt</myFunction>
+	<myAttribut>beschwichtigend</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Geld</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alltagsthema</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_15.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Prostituierte</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Weinen</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Zusammenhang</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Gegenfrage</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Geld</tag>
+					<tag>Tatort</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>charmant</attribut>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Motiv</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_21.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Weinen</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Weinen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zuhaelter</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Fingerabdruck</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Tatort</tag>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_25.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_26.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Ausweichen</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_27.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Rueckfrage</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Geld</tag>
+					<tag>Wieso</tag>
+					<tag>Grund</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Geld</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_31.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Ursache</tag>
+					<tag>Grund</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Zufall</tag>
+					<tag>Ursache</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Familie</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_32.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Komplizen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Tatort</tag>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_33.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_34.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Provokation</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_35.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_36.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Freundin</tag>
+					<tag>Zeuge</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+					<tag>Name</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_37.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Motiv</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Angst</tag>
+					<tag>Emotion</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_38.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_39.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Zeuge</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_40.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Name</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_41.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Motiv</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_43.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Fingerabdruck</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Zeuge</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Emotion</tag>
+					<tag>Aussehen</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_44.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Aussehen</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_45.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Blut</tag>
+					<tag>Motiv</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_46.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_h_47.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Motiv</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Angst</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+
+
+
+<clip>
+	<file>k_s_01.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Provokation</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Geld</tag>
+					<tag>Tatort</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+					<tag>Provokation</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_02.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Deal</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Geld</tag>
+					<tag>Portmonaie</tag>
+					<tag>Sex</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Gesetz</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_03.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Geld</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_04.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Motiv</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Deal</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_05.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Motiv</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Geld</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_06.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Geld</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_07.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Prostituierte</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Gesetz</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_08.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_09.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Motiv</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>lasziv</attribut>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Beziehung</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatwaffe</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Fuss</tag>
+					<tag>Tatwaffe</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_11.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Prostituierte</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>charmant</attribut>
+	<tags>
+					<tag>Alltagsthema</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeitpunkt</tag>
+					<tag>Prostituierte</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>aengstlich</attribut>
+	<tags>
+					<tag>Angst</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Beruf</tag>
+					<tag>Prostituierte</tag>
+					<tag>Verwirrung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Knast</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Prostituierte</tag>
+					<tag>Belustigung</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_21.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Prostituierte</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Emotion</tag>
+					<tag>Trauer</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Kollegen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_24.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Nonverbales</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>k_s_25.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Kommissar</myRole>
+	<myCategory>Frage</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Verdaechtiger</Role>
+	<category>Antwort</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Kollegen</tag>
+					<tag>Wissen</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Belustigung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+
+<clip>
+	<file>p_e_01.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_02.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_03.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_04.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Name</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_05.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_06.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_07.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_08.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Identitaet</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Geld</tag>
+					<tag>Kollegen</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_09.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Ablenkung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_11.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Provokation</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Scham</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Boss</tag>
+					<tag>Zeuge</tag>
+					<tag>Freunde</tag>
+					<tag>Name</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Beziehung</tag>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Freundin</tag>
+					<tag>Freunde</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_15.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alltagsthema</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Provokation</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Ursache</tag>
+					<tag>Grund</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Beziehung</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Tatort</tag>
+					<tag>Deal</tag>
+					<tag>Beruf</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Handy</tag>
+					<tag>Grund</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Freundin</tag>
+					<tag>Selbstmord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Zeuge</tag>
+					<tag>Handy</tag>
+					<tag>Wieso</tag>
+					<tag>Deal</tag>
+					<tag>Ursache</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Drogen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Freundin</tag>
+					<tag>Geld</tag>
+					<tag>Freunde</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Prostituierte</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_21.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Kollegen</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Selbstmord</tag>
+					<tag>Bett</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Ursache</tag>
+					<tag>Grund</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+					<tag>Komplizen</tag>
+					<tag>Drogen</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Rechtfertigung</tag>
+					<tag>Provokation</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Komplizen</tag>
+					<tag>Drogen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Drogen</tag>
+					<tag>Provokation</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_25.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Grund</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Bett</tag>
+					<tag>Sex</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Motiv</tag>
+					<tag>Familie</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_26.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Knast</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Fingerabdruck</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Sex</tag>
+					<tag>Ursache</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Komplizen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_27.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Grund</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Fingerabdruck</tag>
+					<tag>Tatort</tag>
+					<tag>Prostituierte</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_28.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Selbstmord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Wissen</tag>
+					<tag>Ursache</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Trauer</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_29.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Grund</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Selbstmord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Beruf</tag>
+					<tag>Grund</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_30.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Sex</tag>
+					<tag>Beziehung</tag>
+					<tag>Scham</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_31.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_32.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Angst</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Tatort</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Drogen</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_33.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Tatort</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Beziehung</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_34.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Lachen</tag>
+					<tag>Provokation</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Motiv</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_35.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Motiv</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Scham</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_36.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Selbstmord</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Ursache</tag>
+					<tag>Grund</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_37.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Grund</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_38.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Grund</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Grund</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Drogen</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_39.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Grund</tag>
+					<tag>Motiv</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_40.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>beschwichtigend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Wieso</tag>
+					<tag>Motiv</tag>
+					<tag>Drogen</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_41.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_42.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_43.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_44.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_45.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_46.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_47.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Lachen</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_48.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_49.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Identitaet</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_50.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Drogen</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_51.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Familie</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_52.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>fordernd</myAttribut>
+	<myTags>
+					<tag>Handy</tag>
+					<tag>Freunde</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Angst</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_e_53.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_1.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Geld</tag>
+					<tag>Deal</tag>
+					<tag>Drogen</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_11.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Abwehr</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_15.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Geld</tag>
+					<tag>Drogen</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Geld</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Knast</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_2.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>3</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Weinen</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Weinen</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Weinen</tag>
+					<tag>Emotion</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Sex</tag>
+					<tag>Motiv</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_21.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Wissen</tag>
+					<tag>Grund</tag>
+					<tag>Komplizen</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Tatort</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Komplizen</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Geld</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zeuge</tag>
+					<tag>Wieso</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+					<tag>Komplizen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_24.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Angst</tag>
+					<tag>Weinen</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Wissen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_25.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Geld</tag>
+					<tag>Wissen</tag>
+					<tag>Deal</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_26.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Rechtfertigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wissen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_27.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wissen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_28.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wieso</tag>
+					<tag>Tatwaffe</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_29.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_3.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_30.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Prostituierte</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Motiv</tag>
+					<tag>Emotion</tag>
+					<tag>Familie</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_31.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wieso</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_32.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_33.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Blut</tag>
+					<tag>Tatort</tag>
+					<tag>Ursache</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Prostituierte</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_34.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>beschwichtigend</myAttribut>
+	<myTags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Ursache</tag>
+					<tag>Grund</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_35.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Ursache</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_36.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Angst</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_37.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_38.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Weinen</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Emotion</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Wieso</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Weinen</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_39.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Wieso</tag>
+					<tag>Ursache</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_4.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Rache</tag>
+					<tag>Boss</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Kollegen</tag>
+					<tag>Freunde</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Grund</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_40.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Zeuge</tag>
+					<tag>Geld</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Grund</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Provokation</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_41.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Einleitung</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Zeuge</tag>
+					<tag>Ursache</tag>
+					<tag>Beziehung</tag>
+					<tag>Drogen</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_42.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Grund</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Ursache</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_43.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Selbstmord</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Kommisar</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Notwehr</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Selbstmord</tag>
+					<tag>Blut</tag>
+					<tag>Tatort</tag>
+					<tag>Grund</tag>
+					<tag>Tatwaffe</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_44.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Kommisar</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Provokation</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_45.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_46.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Beziehung</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_47.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Scham</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Sex</tag>
+					<tag>Grund</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Drogen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_48.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Wieso</tag>
+					<tag>Grund</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Angst</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Verunsicherung</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Bett</tag>
+					<tag>Tatort</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Drogen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Provokation</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_49.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>lasziv</myAttribut>
+	<myTags>
+					<tag>Unterschrift</tag>
+					<tag>Sex</tag>
+					<tag>Alltagsthema</tag>
+					<tag>Kommisar</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_5.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+					<tag>Tatort</tag>
+					<tag>Sex</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_50.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Prostituierte</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Prostituierte</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_51.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_52.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Fingerabdruck</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_53.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_54.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Unterschrift</tag>
+					<tag>Tatort</tag>
+					<tag>Uhrzeit</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Bett</tag>
+					<tag>Tatort</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Drogen</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_55.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Unwissenheit</tag>
+					<tag>Drogen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Drogen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_56.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Grund</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Fingerabdruck</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Zusammenhang</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_57.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Wieso</tag>
+					<tag>Angst</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Tatort</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Motiv</tag>
+					<tag>Angst</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_58.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_59.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+					<tag>Tatort</tag>
+					<tag>Unwissenheit</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_6.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_60.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Angst</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Zeuge</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_61.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Ursache</tag>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_62.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Tathergang</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Portmonaie</tag>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wieso</tag>
+					<tag>Verwirrung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_64.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_65.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Angst</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_66.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Angst</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_67.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_69.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Zugestaendnis</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Zugestaendnis</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_7.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Boss</tag>
+					<tag>Geld</tag>
+					<tag>Handy</tag>
+					<tag>Kollegen</tag>
+					<tag>Wissen</tag>
+					<tag>Wieso</tag>
+					<tag>Deal</tag>
+					<tag>Sex</tag>
+					<tag>Grund</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Familie</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_70.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Boss</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Verwirrung</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_71.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+					<tag>Zeitpunkt</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Zeuge</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_72.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Mord</tag>
+					<tag>Geld</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_73.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alibi</tag>
+					<tag>Familie</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Zeuge</tag>
+					<tag>Familie</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_74.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Gegenfrage</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Zuhaelter</tag>
+					<tag>Wissen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_75.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Knast</tag>
+					<tag>Gesetz</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_76.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Beschuldigung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Zuhaelter</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_77.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Aussehen</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Motiv</tag>
+					<tag>Prostituierte</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_78.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Zeuge</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Beziehung</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_79.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ausweichen</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>arrogant</attribut>
+	<tags>
+					<tag>Knast</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_8.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Rueckfrage</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_80.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Friseur</tag>
+					<tag>Alibi</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Fall_Back</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_81.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Abwehr</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+		<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/WWWROOT/164037/htdocs/clip_verhoer.xml</b> on line <b>21</b><br />
+	</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Blut</tag>
+					<tag>Sex</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_82.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>fordernd</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Tatort</tag>
+					<tag>Deal</tag>
+					<tag>Ursache</tag>
+					<tag>Motiv</tag>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_83.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Verunsicherung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Verwirrung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Eingestaendnis</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_84.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zeuge</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Uhrzeit</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_85.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+					<tag>Wieso</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_86.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Beschuldigung</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Fingerabdruck</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_87.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Boss</tag>
+					<tag>Tatort</tag>
+					<tag>Sex</tag>
+					<tag>Drogen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_88.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Prostituierte</tag>
+					<tag>Knast</tag>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_89.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Rueckfrage</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Aussehen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_9.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Provokation</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Rache</tag>
+					<tag>Eifersucht</tag>
+					<tag>Alibi</tag>
+					<tag>Mord</tag>
+					<tag>Blut</tag>
+					<tag>Zeuge</tag>
+					<tag>Geld</tag>
+					<tag>Handy</tag>
+					<tag>Wissen</tag>
+					<tag>Wieso</tag>
+					<tag>Sex</tag>
+					<tag>Grund</tag>
+					<tag>Zusammenhang</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Komplizen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Drogen</tag>
+					<tag>Familie</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_90.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Ablenkung</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Lachen</tag>
+					<tag>Kommisar</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Provokation</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wieso</tag>
+					<tag>Prostituierte</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_h_91.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Haupteil</myAct>
+	<myTimes>2</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Fall_Back</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Tathergang</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Uhrzeit</tag>
+					<tag>Zeitpunkt</tag>
+			</tags>
+</clip>
+
+
+
+<clip>
+	<file>p_s_1.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Tatort</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Wissen</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Motiv</tag>
+					<tag>Belustigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_10.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Mord</tag>
+					<tag>Prostituierte</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Zeuge</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_12.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Geld</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Nonverbales</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_13.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_14.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Fuss</tag>
+					<tag>Tatwaffe</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_15.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_16.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_17.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Freunde</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_18.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>cool</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Beziehung</tag>
+					<tag>Kommisar</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_19.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Verwirrung</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_2.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_20.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Wissen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_21.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_22.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Kommisar</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Provokation</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_23.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Nonverbales</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>keine</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_24.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Rechtfertigung</tag>
+					<tag>Belustigung</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_25.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Beruf</tag>
+					<tag>Emotion</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_26.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_27.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_28.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Deal</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_29.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>charmant</myAttribut>
+	<myTags>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Gesetz</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Sex</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Prostituierte</tag>
+					<tag>Belustigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_3.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Belustigung</tag>
+					<tag>Knast</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_30.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Emotion</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_31.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_32.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>arrogant</myAttribut>
+	<myTags>
+					<tag>Provokation</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+					<tag>Motiv</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_33.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Emotion</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_34.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Belustigung</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_35.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_36.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Nonverbales</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>keine</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+					<tag>Motiv</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_37.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+					<tag>Belustigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_38.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_39.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Alltagsthema</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_4.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Angst</tag>
+					<tag>Verzweiflung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Wissen</tag>
+					<tag>Tatwaffe</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_40.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Unwissenheit</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_41.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Beziehung</tag>
+					<tag>Motiv</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Emotion</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_42.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Rechtfertigung</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_43.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Unwissenheit</tag>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>wuetend</attribut>
+	<tags>
+					<tag>Emotion</tag>
+					<tag>Provokation</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_44.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Mord</tag>
+					<tag>Wissen</tag>
+					<tag>Gesetz</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_45.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>ruhig</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Emotion</tag>
+					<tag>Belustigung</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Verwirrung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_46.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Angst</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_47.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Kollegen</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Emotion</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Knast</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Gesetz</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_48.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Mord</tag>
+					<tag>Provokation</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>cool</attribut>
+	<tags>
+					<tag>Beruf</tag>
+					<tag>Sex</tag>
+					<tag>Verhaeltnis</tag>
+					<tag>Knast</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_5.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Unschuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Emotion</tag>
+					<tag>Knast</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Unschuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Unwissenheit</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_6.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Geld</tag>
+					<tag>Motiv</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Notwehr</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Belustigung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_7.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Notwehr</tag>
+					<tag>Mord</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zeuge</tag>
+					<tag>Wissen</tag>
+					<tag>Prostituierte</tag>
+					<tag>Belustigung</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_8.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>aengstlich</myAttribut>
+	<myTags>
+					<tag>Angst</tag>
+					<tag>Verwirrung</tag>
+					<tag>Verzweiflung</tag>
+					<tag>Eingestaendnis</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Wissen</tag>
+					<tag>Sex</tag>
+					<tag>Motiv</tag>
+					<tag>Provokation</tag>
+					<tag>Rueckfrage</tag>
+			</tags>
+</clip>
+
+
+<clip>
+	<file>p_s_9.mov</file>
+	<genre>verhoer</genre>
+	<myRole>Verdaechtiger</myRole>
+	<myCategory>Antwort</myCategory>
+	<myAct>Schluss</myAct>
+	<myTimes>1</myTimes>
+	<startenabled>nein</startenabled>
+	<myFunction>Schuldig</myFunction>
+	<myAttribut>wuetend</myAttribut>
+	<myTags>
+					<tag>Freundin</tag>
+					<tag>Eifersucht</tag>
+					<tag>Tatort</tag>
+					<tag>Beziehung</tag>
+					<tag>Rechtfertigung</tag>
+					<tag>Eingestaendnis</tag>
+					<tag>Opfer</tag>
+			</myTags>
+	<Role>Kommissar</Role>
+	<category>Frage</category>
+	<funktion>Schuldig</funktion>
+	<attribut>ruhig</attribut>
+	<tags>
+					<tag>Zeuge</tag>
+					<tag>Tatwaffe</tag>
+					<tag>Zeitpunkt</tag>
+					<tag>Prostituierte</tag>
+					<tag>Opfer</tag>
+			</tags>
+</clip>
+
+</clips>

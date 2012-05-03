@@ -1,0 +1,35 @@
+<projectDescription>
+  <id>1277636193684</id>
+  <name>Metadating</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/sven/Library/Application Support/Adobe/Flash CS4/de/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/sven/Library/Application Support/Adobe/Flash CS4/de/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="MetaDating.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/MetaDating.as</uri>
+    <uri label="Utils.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/Utils.as</uri>
+    <uri label="CalcAstro.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcAstro.as</uri>
+    <uri label="CalcHotline.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcHotline.as</uri>
+    <uri label="CalcBouncer.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcBouncer.as</uri>
+    <uri label="CalcDemo.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcDemo.as</uri>
+    <uri label="Player.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/Player.as</uri>
+    <uri label="CalcKluge_alt.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcKluge_alt.as</uri>
+    <uri label="CalcKluge.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcKluge.as</uri>
+    <uri label="BouncerObject.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/BouncerObject.as</uri>
+    <uri label="AstroObject.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/AstroObject.as</uri>
+    <uri label="MetaDating.fla">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/MetaDating.fla</uri>
+    <uri label="DemoObject.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/DemoObject.as</uri>
+    <uri label="HotlineObject.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/HotlineObject.as</uri>
+    <uri label="CalcSchwiegersohn.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcSchwiegersohn.as</uri>
+    <uri label="CalcVerhoer.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/CalcVerhoer.as</uri>
+    <uri label="SchwiegersohnObject.as">file:///Macintosh HD/Users/sven/Documents/Uni/Tutor/Metadating/flash/SchwiegersohnObject.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

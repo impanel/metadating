@@ -1,0 +1,1 @@
+﻿package  {		public class Geometry {		public function Geometry() {			// constructor code		}	}	}

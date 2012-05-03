@@ -1,0 +1,1 @@
+﻿package  {		import flash.filesystem.*;		public class ListFiles {						public function ListFiles() {			// constructor code		}				private var listFiles:Array = new Array;					}	}
